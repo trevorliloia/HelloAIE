@@ -8,6 +8,7 @@
 int main()
 {
 	printf("aeiou\nebrbrbrbrbrbr");
+	printf("\n~only REAL 90s kids~");
 	getchar();
 	
 }
